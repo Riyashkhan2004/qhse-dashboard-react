@@ -46,6 +46,12 @@ src
 |-- App.tsx
 
 
+## 📄 Documentation
+
+Complete project documentation:
+
+[View Project Documentation](docs/DOC-20260401-WA0140..pdf)
+
 ## Author
 
 Riyash Khan
